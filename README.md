@@ -1,2 +1,2 @@
 # Instagram-prfofile-downloader
-You can use this scripty to download profile from instgaram.
+You can use this script to download profile from instgaram.
